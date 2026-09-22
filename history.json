@@ -1,0 +1,365 @@
+[
+  {
+    "record_id": "20260922194901_64e1bb",
+    "time": "2026-09-22 19:49:04",
+    "crop": null,
+    "status": "low",
+    "image_url": "/uploads/20260922194901_64e1bb.jpg",
+    "disease": "Passalora",
+    "probability": 0.3534,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922194845_41f8e6",
+    "time": "2026-09-22 19:48:48",
+    "crop": null,
+    "status": "confirmed",
+    "image_url": "/uploads/20260922194845_41f8e6.jpg",
+    "disease": "尾孢菌屬",
+    "probability": 0.7674,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922191523_e8a312",
+    "time": "2026-09-22 19:15:25",
+    "crop": null,
+    "status": "suspected",
+    "image_url": "/uploads/20260922191523_e8a312.jpg",
+    "disease": "斑痣盘菌属",
+    "probability": 0.5594,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922191334_59dbef",
+    "time": "2026-09-22 19:13:38",
+    "crop": null,
+    "status": "low",
+    "image_url": "/uploads/20260922191334_59dbef.jpg",
+    "disease": "尾孢菌屬",
+    "probability": 0.3394,
+    "image_count": 2
+  },
+  {
+    "record_id": "20260922191140_e6ac11",
+    "time": "2026-09-22 19:11:43",
+    "crop": null,
+    "status": "low",
+    "image_url": "/uploads/20260922191140_e6ac11.jpg",
+    "disease": "浇水过多或不平衡",
+    "probability": 0.2251,
+    "image_count": 2
+  },
+  {
+    "record_id": "20260922190543_fe52a3",
+    "time": "2026-09-22 19:05:46",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922190543_fe52a3.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 2
+  },
+  {
+    "record_id": "20260922190235_1d6a69",
+    "time": "2026-09-22 19:02:38",
+    "crop": null,
+    "status": "suspected",
+    "image_url": "/uploads/20260922190235_1d6a69.jpg",
+    "disease": "营养缺乏",
+    "probability": 0.522,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922190157_0df68f",
+    "time": "2026-09-22 19:01:59",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922190157_0df68f.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922190149_da2000",
+    "time": "2026-09-22 19:01:53",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922190149_da2000.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 2
+  },
+  {
+    "record_id": "20260922190131_ab690e",
+    "time": "2026-09-22 19:01:39",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922190131_ab690e.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922190125_fe8155",
+    "time": "2026-09-22 19:01:27",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922190125_fe8155.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922185846_a88cba",
+    "time": "2026-09-22 18:58:50",
+    "crop": null,
+    "status": "confirmed",
+    "image_url": "/uploads/20260922185846_a88cba.jpg",
+    "disease": "尾孢菌屬",
+    "probability": 0.767,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922185839_253f66",
+    "time": "2026-09-22 18:58:42",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922185839_253f66.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922185835_5f2fcd",
+    "time": "2026-09-22 18:58:38",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922185835_5f2fcd.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922185828_03dbf6",
+    "time": "2026-09-22 18:58:30",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922185828_03dbf6.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922185824_7b98de",
+    "time": "2026-09-22 18:58:27",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922185824_7b98de.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922185821_c77052",
+    "time": "2026-09-22 18:58:23",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922185821_c77052.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922185817_b87b69",
+    "time": "2026-09-22 18:58:20",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922185817_b87b69.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922185808_07eb4f",
+    "time": "2026-09-22 18:58:11",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922185808_07eb4f.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922185805_62647c",
+    "time": "2026-09-22 18:58:07",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922185805_62647c.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922185714_d6ab30",
+    "time": "2026-09-22 18:57:17",
+    "crop": null,
+    "status": "confirmed",
+    "image_url": "/uploads/20260922185714_d6ab30.jpg",
+    "disease": "尾孢菌屬",
+    "probability": 0.767,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922185700_a56fef",
+    "time": "2026-09-22 18:57:03",
+    "crop": null,
+    "status": "suspected",
+    "image_url": "/uploads/20260922185700_a56fef.jpg",
+    "disease": "柄锈菌目",
+    "probability": 0.498,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922185637_826065",
+    "time": "2026-09-22 18:56:40",
+    "crop": null,
+    "status": "confirmed",
+    "image_url": "/uploads/20260922185637_826065.jpg",
+    "disease": "尾孢菌屬",
+    "probability": 0.767,
+    "image_count": 1
+  },
+  {
+    "record_id": "20260922185630_97092f",
+    "time": "2026-09-22 18:56:34",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922185630_97092f.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 2
+  },
+  {
+    "record_id": "20260922185523_e0116f",
+    "time": "2026-09-22 18:55:27",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922185523_e0116f.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 3
+  },
+  {
+    "record_id": "20260922185518_f89fc8",
+    "time": "2026-09-22 18:55:22",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922185518_f89fc8.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 3
+  },
+  {
+    "record_id": "20260922185511_f40e90",
+    "time": "2026-09-22 18:55:16",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922185511_f40e90.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 4
+  },
+  {
+    "record_id": "20260922185504_df4d6c",
+    "time": "2026-09-22 18:55:08",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922185504_df4d6c.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 4
+  },
+  {
+    "record_id": "20260922185345_e19293",
+    "time": "2026-09-22 18:53:50",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922185345_e19293.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 5
+  },
+  {
+    "record_id": "20260922184955_103c0e",
+    "time": "2026-09-22 18:50:03",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922184955_103c0e.jpg",
+    "disease": null,
+    "probability": null,
+    "image_count": 3
+  },
+  {
+    "record_id": "20260922182321_9006fd",
+    "time": "2026-09-22 18:23:23",
+    "crop": null,
+    "status": "confirmed",
+    "image_url": "/uploads/20260922182321_9006fd.jpg",
+    "disease": "尾孢菌屬",
+    "probability": 0.767
+  },
+  {
+    "record_id": "20260922182244_6b1dbf",
+    "time": "2026-09-22 18:22:47",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922182244_6b1dbf.jpg",
+    "disease": null,
+    "probability": null
+  },
+  {
+    "record_id": "20260922181035_f9032f",
+    "time": "2026-09-22 18:10:38",
+    "crop": null,
+    "status": "healthy",
+    "image_url": "/uploads/20260922181035_f9032f.jpg",
+    "disease": null,
+    "probability": null
+  },
+  {
+    "record_id": "20260922180924_39b1ee",
+    "time": "2026-09-22 18:09:26",
+    "crop": null,
+    "status": "healthy",
+    "image_url": "/uploads/20260922180924_39b1ee.jpg",
+    "disease": null,
+    "probability": null
+  },
+  {
+    "record_id": "20260922173624_eb3696",
+    "time": "2026-09-22 17:36:26",
+    "crop": null,
+    "status": "healthy",
+    "image_url": "/uploads/20260922173624_eb3696.jpg",
+    "disease": null,
+    "probability": null
+  },
+  {
+    "record_id": "20260922173535_638d81",
+    "time": "2026-09-22 17:35:38",
+    "crop": null,
+    "status": "healthy",
+    "image_url": "/uploads/20260922173535_638d81.jpg",
+    "disease": null,
+    "probability": null
+  },
+  {
+    "record_id": "20260922173439_f523bd",
+    "time": "2026-09-22 17:34:42",
+    "crop": null,
+    "status": "rejected",
+    "image_url": "/uploads/20260922173439_f523bd.jpg",
+    "disease": null,
+    "probability": null
+  }
+]
